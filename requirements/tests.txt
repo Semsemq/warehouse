@@ -399,3 +399,4 @@ webtest==3.0.6 \
     --hash=sha256:0c4a5a3dcf745a78c7905b803d6a520a2cf241c1f00ccdf4351f52916d555543 \
     --hash=sha256:4256fd5242448f56c575bcb9afe275e305a6f0723c4b01438dbdd4dd5344944b
     # via -r requirements/tests.in
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
