@@ -586,3 +586,4 @@ websockets==15.0.1 \
     --hash=sha256:f7a866fbc1e97b5c617ee4116daaa09b722101d4a3c170c787450ba409f9736f \
     --hash=sha256:fcd5cf9e305d7b8338754470cf69cf81f420459dbae8a3b40cee57417f4614a7
     # via sphinx-autobuild
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
