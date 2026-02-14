@@ -474,7 +474,7 @@ cmarkgfm==2024.11.20 \
     --hash=sha256:fc74387e90d518156d493b52af63faab2d95710e5f582df8dd50952cbf601194 \
     --hash=sha256:ffbb3847e4d71de84e23abd30ff23fb3ce81f9096eb7bdc6569499c8b7a098b8
     # via readme-renderer
-cryptography==44.0.3 \
+cryptography==46.0.5 \
     --hash=sha256:02f55fb4f8b79c1221b0961488eaae21015b69b210e18c386b69de182ebb1259 \
     --hash=sha256:157f1f3b8d941c2bd8f3ffee0af9b049c9665c39d3da9db2dc338feca5e98a43 \
     --hash=sha256:192ed30fac1728f7587c6f4613c29c584abdc565d7417c13904708db10206645 \
